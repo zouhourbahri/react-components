@@ -1,0 +1,13 @@
+.photo{
+    border-radius: 300px;
+    height:400px;
+    margin-top: 30px;
+}
+.adress{
+    color:rgba(128, 0, 128, 0.623);
+    font-size: 25px;
+}
+.name{
+    color:purple;
+    font-size: 40px; 
+}
